@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Clearwork\n"
-"POT-Creation-Date: 2021-03-05 15:46+0100\n"
+"POT-Creation-Date: 2021-03-08 18:58+0100\n"
 "PO-Revision-Date: 2018-09-21 21:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -55,83 +55,83 @@ msgstr ""
 msgid "Theme by"
 msgstr ""
 
-#: functions.php:90
+#: functions.php:84
 msgid "Mobile"
 msgstr ""
 
-#: functions.php:91 functions/theme-options.php:52
+#: functions.php:85 functions/theme-options.php:52
 msgid "Header"
 msgstr ""
 
-#: functions.php:183
+#: functions.php:177
 msgid "Primary"
 msgstr ""
 
-#: functions.php:183
+#: functions.php:177
 msgid "Normal full width sidebar"
 msgstr ""
 
-#: functions.php:185 functions/theme-options.php:273
+#: functions.php:179 functions/theme-options.php:273
 msgid "Footer Ads"
 msgstr ""
 
-#: functions.php:185
+#: functions.php:179
 msgid "Footer ads area"
 msgstr ""
 
-#: functions.php:187
+#: functions.php:181
 msgid "Frontpage Top 1"
 msgstr ""
 
-#: functions.php:187 functions.php:188 functions.php:189 functions.php:190
+#: functions.php:181 functions.php:182 functions.php:183 functions.php:184
 msgid "Frontpage area"
 msgstr ""
 
-#: functions.php:188
+#: functions.php:182
 msgid "Frontpage Top 2"
 msgstr ""
 
-#: functions.php:189
+#: functions.php:183
 msgid "Frontpage Bottom 1"
 msgstr ""
 
-#: functions.php:190
+#: functions.php:184
 msgid "Frontpage Bottom 2"
 msgstr ""
 
-#: functions.php:192
+#: functions.php:186
 msgid "Footer 1"
 msgstr ""
 
-#: functions.php:192 functions.php:193 functions.php:194 functions.php:195
+#: functions.php:186 functions.php:187 functions.php:188 functions.php:189
 msgid "Widgetized footer"
 msgstr ""
 
-#: functions.php:193
+#: functions.php:187
 msgid "Footer 2"
 msgstr ""
 
-#: functions.php:194
+#: functions.php:188
 msgid "Footer 3"
 msgstr ""
 
-#: functions.php:195
+#: functions.php:189
 msgid "Footer 4"
 msgstr ""
 
-#: functions.php:687
+#: functions.php:681
 msgid "Alx Extensions"
 msgstr ""
 
-#: functions.php:691
+#: functions.php:685
 msgid "Meta Box"
 msgstr ""
 
-#: functions.php:695
+#: functions.php:689
 msgid "Regenerate Thumbnails"
 msgstr ""
 
-#: functions.php:699
+#: functions.php:693
 msgid "WP-PageNavi"
 msgstr ""
 
@@ -743,132 +743,6 @@ msgstr ""
 
 #: functions/theme-options.php:711
 msgid "Footer Background"
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:276
-#: functions/updater/theme-updater-admin.php:330
-#: functions/updater/theme-updater-admin.php:383
-msgid "An error occurred, please try again."
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:296
-#, php-format
-msgid "Your license key expired on %s."
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:304
-msgid "Your license key has been disabled."
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:309
-msgid "Invalid license."
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:315
-msgid "Your license is not active for this URL."
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:320
-#, php-format
-msgid "This appears to be an invalid license key for %s."
-msgstr ""
-
-#: functions/updater/theme-updater-admin.php:325
-msgid "Your license key has reached its activation limit."
-msgstr ""
-
-#: functions/updater/theme-updater.php:30
-msgid "Theme License"
-msgstr ""
-
-#: functions/updater/theme-updater.php:31
-msgid "Enter your theme license key."
-msgstr ""
-
-#: functions/updater/theme-updater.php:32
-msgid "License Key"
-msgstr ""
-
-#: functions/updater/theme-updater.php:33
-msgid "License Action"
-msgstr ""
-
-#: functions/updater/theme-updater.php:34
-msgid "Deactivate License"
-msgstr ""
-
-#: functions/updater/theme-updater.php:35
-msgid "Activate License"
-msgstr ""
-
-#: functions/updater/theme-updater.php:36
-#: functions/updater/theme-updater.php:49
-msgid "License status is unknown."
-msgstr ""
-
-#: functions/updater/theme-updater.php:37
-msgid "Renew?"
-msgstr ""
-
-#: functions/updater/theme-updater.php:38
-msgid "unlimited"
-msgstr ""
-
-#: functions/updater/theme-updater.php:39
-msgid "License key is active."
-msgstr ""
-
-#: functions/updater/theme-updater.php:40
-#, php-format
-msgid "Expires %s."
-msgstr ""
-
-#: functions/updater/theme-updater.php:41
-msgid "Lifetime License."
-msgstr ""
-
-#: functions/updater/theme-updater.php:42
-#, php-format
-msgid "You have %1$s / %2$s sites activated."
-msgstr ""
-
-#: functions/updater/theme-updater.php:43
-#, php-format
-msgid "License key expired %s."
-msgstr ""
-
-#: functions/updater/theme-updater.php:44
-msgid "License key has expired."
-msgstr ""
-
-#: functions/updater/theme-updater.php:45
-msgid "License keys do not match."
-msgstr ""
-
-#: functions/updater/theme-updater.php:46
-msgid "License is inactive."
-msgstr ""
-
-#: functions/updater/theme-updater.php:47
-msgid "License key is disabled."
-msgstr ""
-
-#: functions/updater/theme-updater.php:48
-msgid "Site is inactive."
-msgstr ""
-
-#: functions/updater/theme-updater.php:50
-msgid ""
-"Updating this theme will lose any customizations you have made. 'Cancel' to "
-"stop, 'OK' to update."
-msgstr ""
-
-#: functions/updater/theme-updater.php:51
-#, php-format
-msgid ""
-"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
-"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
-"a>."
 msgstr ""
 
 #: header.php:19
