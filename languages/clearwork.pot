@@ -1,0 +1,930 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Clearwork\n"
+"POT-Creation-Date: 2021-03-05 15:46+0100\n"
+"PO-Revision-Date: 2018-09-21 21:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;number_format_i18n;date_i18n;esc_html__;esc_html_e;"
+"esc_html_x;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: functions/class-tgm-plugin-activation.php\n"
+"X-Poedit-SearchPathExcluded-1: functions/kirki\n"
+
+#: comments.php:7
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:7
+msgid "1 Response"
+msgstr ""
+
+#: comments.php:7
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:10
+msgid "Comments"
+msgstr ""
+
+#: comments.php:11
+msgid "Pingbacks"
+msgstr ""
+
+#: footer.php:60
+msgid "Y"
+msgstr ""
+
+#: footer.php:60
+msgid "All Rights Reserved."
+msgstr ""
+
+#: footer.php:66
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:66
+msgid "Theme by"
+msgstr ""
+
+#: functions.php:90
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:91 functions/theme-options.php:52
+msgid "Header"
+msgstr ""
+
+#: functions.php:183
+msgid "Primary"
+msgstr ""
+
+#: functions.php:183
+msgid "Normal full width sidebar"
+msgstr ""
+
+#: functions.php:185 functions/theme-options.php:273
+msgid "Footer Ads"
+msgstr ""
+
+#: functions.php:185
+msgid "Footer ads area"
+msgstr ""
+
+#: functions.php:187
+msgid "Frontpage Top 1"
+msgstr ""
+
+#: functions.php:187 functions.php:188 functions.php:189 functions.php:190
+msgid "Frontpage area"
+msgstr ""
+
+#: functions.php:188
+msgid "Frontpage Top 2"
+msgstr ""
+
+#: functions.php:189
+msgid "Frontpage Bottom 1"
+msgstr ""
+
+#: functions.php:190
+msgid "Frontpage Bottom 2"
+msgstr ""
+
+#: functions.php:192
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:192 functions.php:193 functions.php:194 functions.php:195
+msgid "Widgetized footer"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:194
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:195
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:687
+msgid "Alx Extensions"
+msgstr ""
+
+#: functions.php:691
+msgid "Meta Box"
+msgstr ""
+
+#: functions.php:695
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: functions.php:699
+msgid "WP-PageNavi"
+msgstr ""
+
+#: functions/meta-boxes.php:21
+msgid "Page Options"
+msgstr ""
+
+#: functions/meta-boxes.php:29 functions/meta-boxes.php:62
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions/meta-boxes.php:31 functions/meta-boxes.php:64
+#: functions/theme-options.php:472 functions/theme-options.php:482
+#: functions/theme-options.php:492 functions/theme-options.php:502
+#: functions/theme-options.php:512 functions/theme-options.php:522
+#: functions/theme-options.php:532
+msgid "Select a sidebar"
+msgstr ""
+
+#: functions/meta-boxes.php:37 functions/meta-boxes.php:70
+#: functions/theme-options.php:62
+msgid "Layout"
+msgstr ""
+
+#: functions/meta-boxes.php:54
+msgid "Post Options"
+msgstr ""
+
+#: functions/nav.php:170
+msgid "Expand Menu"
+msgstr ""
+
+#: functions/nav.php:212
+msgid "Toggle Child Menu"
+msgstr ""
+
+#: functions/nav.php:286 functions/nav.php:300
+#, php-format
+msgid "<span class=\"screen-reader-text\">%1$s </span>%2$s"
+msgstr ""
+
+#: functions/nav.php:287
+msgid "Current Page:"
+msgstr ""
+
+#: functions/nav.php:301
+msgid "Current Page Parent"
+msgstr ""
+
+#: functions/theme-options.php:16
+msgid "AlxMedia"
+msgstr ""
+
+#: functions/theme-options.php:18
+msgid "View More Themes"
+msgstr ""
+
+#: functions/theme-options.php:23
+msgid "Like This Theme?"
+msgstr ""
+
+#: functions/theme-options.php:26
+msgid "Write a Review"
+msgstr ""
+
+#: functions/theme-options.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: functions/theme-options.php:42
+msgid "General"
+msgstr ""
+
+#: functions/theme-options.php:47
+msgid "Blog"
+msgstr ""
+
+#: functions/theme-options.php:57
+msgid "Footer"
+msgstr ""
+
+#: functions/theme-options.php:67
+msgid "Sidebars"
+msgstr ""
+
+#: functions/theme-options.php:72
+msgid "Social Links"
+msgstr ""
+
+#: functions/theme-options.php:77
+msgid "Styling"
+msgstr ""
+
+#: functions/theme-options.php:88
+msgid "Mobile Sidebar Content"
+msgstr ""
+
+#: functions/theme-options.php:89
+msgid "Sidebar content on low-resolution mobile devices (320px)"
+msgstr ""
+
+#: functions/theme-options.php:97
+msgid "Recommended Plugins"
+msgstr ""
+
+#: functions/theme-options.php:98
+msgid "Enable or disable the recommended plugins notice"
+msgstr ""
+
+#: functions/theme-options.php:106
+msgid "Enable Blog Heading"
+msgstr ""
+
+#: functions/theme-options.php:107
+msgid "Show heading on blog home"
+msgstr ""
+
+#: functions/theme-options.php:115
+msgid "Heading"
+msgstr ""
+
+#: functions/theme-options.php:116
+msgid "Your blog heading"
+msgstr ""
+
+#: functions/theme-options.php:124
+msgid "Subheading"
+msgstr ""
+
+#: functions/theme-options.php:125
+msgid "Your blog subheading"
+msgstr ""
+
+#: functions/theme-options.php:133
+msgid "Frontpage Widgets Top"
+msgstr ""
+
+#: functions/theme-options.php:134 functions/theme-options.php:143
+msgid "2 columns of widgets"
+msgstr ""
+
+#: functions/theme-options.php:142
+msgid "Frontpage Widgets Bottom"
+msgstr ""
+
+#: functions/theme-options.php:151
+msgid "Item Excerpt Length"
+msgstr ""
+
+#: functions/theme-options.php:152
+msgid "Max number of words. Set it to 0 to disable."
+msgstr ""
+
+#: functions/theme-options.php:165
+msgid "Item Comment Count"
+msgstr ""
+
+#: functions/theme-options.php:166
+msgid "Comment count with bubbles"
+msgstr ""
+
+#: functions/theme-options.php:174
+msgid "Item Titles"
+msgstr ""
+
+#: functions/theme-options.php:175
+msgid "Show titles on items"
+msgstr ""
+
+#: functions/theme-options.php:183
+msgid "Item Categories"
+msgstr ""
+
+#: functions/theme-options.php:184
+msgid "Show categories below each item"
+msgstr ""
+
+#: functions/theme-options.php:192
+msgid "Single - Author Bio"
+msgstr ""
+
+#: functions/theme-options.php:193
+msgid "Shows post author description, if it exists"
+msgstr ""
+
+#: functions/theme-options.php:201
+msgid "Single - Related Posts"
+msgstr ""
+
+#: functions/theme-options.php:202
+msgid "Shows randomized related articles below the post"
+msgstr ""
+
+#: functions/theme-options.php:206 functions/theme-options.php:220
+msgid "Disable"
+msgstr ""
+
+#: functions/theme-options.php:207
+msgid "Related by categories"
+msgstr ""
+
+#: functions/theme-options.php:208
+msgid "Related by tags"
+msgstr ""
+
+#: functions/theme-options.php:215
+msgid "Single - Post Navigation"
+msgstr ""
+
+#: functions/theme-options.php:216
+msgid "Shows links to the next and previous article"
+msgstr ""
+
+#: functions/theme-options.php:221
+msgid "Below content"
+msgstr ""
+
+#: functions/theme-options.php:228
+msgid "Header Search"
+msgstr ""
+
+#: functions/theme-options.php:229
+msgid "Header search button"
+msgstr ""
+
+#: functions/theme-options.php:237
+msgid "Header Social Links"
+msgstr ""
+
+#: functions/theme-options.php:238 functions/theme-options.php:299
+msgid "Social link icon buttons"
+msgstr ""
+
+#: functions/theme-options.php:246
+msgid "Profile Image"
+msgstr ""
+
+#: functions/theme-options.php:247
+msgid "Minimum width of 220px"
+msgstr ""
+
+#: functions/theme-options.php:255
+msgid "Profile Name"
+msgstr ""
+
+#: functions/theme-options.php:256
+msgid "Your name appears below the image"
+msgstr ""
+
+#: functions/theme-options.php:264
+msgid "Profile Description"
+msgstr ""
+
+#: functions/theme-options.php:265
+msgid "A short description of you"
+msgstr ""
+
+#: functions/theme-options.php:274
+msgid "Footer widget ads area"
+msgstr ""
+
+#: functions/theme-options.php:282
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: functions/theme-options.php:283
+msgid "Select columns to enable footer widgets. Recommended number: 3"
+msgstr ""
+
+#: functions/theme-options.php:298
+msgid "Footer Social Links"
+msgstr ""
+
+#: functions/theme-options.php:307
+msgid "Footer Logo"
+msgstr ""
+
+#: functions/theme-options.php:308
+msgid "Upload your custom logo image"
+msgstr ""
+
+#: functions/theme-options.php:316
+msgid "Footer Copyright"
+msgstr ""
+
+#: functions/theme-options.php:317
+msgid "Replace the footer copyright text"
+msgstr ""
+
+#: functions/theme-options.php:325
+msgid "Footer Credit"
+msgstr ""
+
+#: functions/theme-options.php:326
+msgid "Footer credit text"
+msgstr ""
+
+#: functions/theme-options.php:334
+msgid "Global Layout"
+msgstr ""
+
+#: functions/theme-options.php:335
+msgid "Other layouts will override this option if they are set"
+msgstr ""
+
+#: functions/theme-options.php:348 functions/theme-options.php:467
+msgid "Home"
+msgstr ""
+
+#: functions/theme-options.php:349
+msgid "(is_home) Posts homepage layout"
+msgstr ""
+
+#: functions/theme-options.php:363 functions/theme-options.php:477
+msgid "Single"
+msgstr ""
+
+#: functions/theme-options.php:364
+msgid ""
+"(is_single) Single post layout - If a post has a set layout, it will "
+"override this."
+msgstr ""
+
+#: functions/theme-options.php:378 functions/theme-options.php:487
+msgid "Archive"
+msgstr ""
+
+#: functions/theme-options.php:379
+msgid "(is_archive) Category, date, tag and author archive layout"
+msgstr ""
+
+#: functions/theme-options.php:393 functions/theme-options.php:497
+msgid "Archive - Category"
+msgstr ""
+
+#: functions/theme-options.php:394
+msgid "(is_category) Category archive layout"
+msgstr ""
+
+#: functions/theme-options.php:408 functions/theme-options.php:507
+msgid "Search"
+msgstr ""
+
+#: functions/theme-options.php:409
+msgid "(is_search) Search page layout"
+msgstr ""
+
+#: functions/theme-options.php:423 functions/theme-options.php:517
+msgid "Error 404"
+msgstr ""
+
+#: functions/theme-options.php:424
+msgid "(is_404) Error 404 page layout"
+msgstr ""
+
+#: functions/theme-options.php:438 functions/theme-options.php:527
+msgid "Default Page"
+msgstr ""
+
+#: functions/theme-options.php:439
+msgid ""
+"(is_page) Default page layout - If a page has a set layout, it will override "
+"this."
+msgstr ""
+
+#: functions/theme-options.php:468
+msgid "(is_home) Primary"
+msgstr ""
+
+#: functions/theme-options.php:478
+msgid ""
+"(is_single) Primary - If a single post has a unique sidebar, it will "
+"override this."
+msgstr ""
+
+#: functions/theme-options.php:488
+msgid "(is_archive) Primary"
+msgstr ""
+
+#: functions/theme-options.php:498
+msgid "(is_category) Primary"
+msgstr ""
+
+#: functions/theme-options.php:508
+msgid "(is_search) Primary"
+msgstr ""
+
+#: functions/theme-options.php:518
+msgid "(is_404) Primary"
+msgstr ""
+
+#: functions/theme-options.php:528
+msgid ""
+"(is_page) Primary - If a page has a unique sidebar, it will override this."
+msgstr ""
+
+#: functions/theme-options.php:541
+msgid "Create Social Links"
+msgstr ""
+
+#: functions/theme-options.php:542
+msgid "Create and organize your social links"
+msgstr ""
+
+#: functions/theme-options.php:544
+msgid "Font Awesome names:"
+msgstr ""
+
+#: functions/theme-options.php:544 functions/theme-options.php:561
+msgid "View All"
+msgstr ""
+
+#: functions/theme-options.php:547
+msgid "social link"
+msgstr ""
+
+#: functions/theme-options.php:554
+msgid "Title"
+msgstr ""
+
+#: functions/theme-options.php:555
+msgid "Ex: Facebook"
+msgstr ""
+
+#: functions/theme-options.php:560
+msgid "Icon Name"
+msgstr ""
+
+#: functions/theme-options.php:561
+msgid "Font Awesome icons. Ex: fa-facebook "
+msgstr ""
+
+#: functions/theme-options.php:566
+msgid "Link"
+msgstr ""
+
+#: functions/theme-options.php:567
+msgid "Enter the full url for your icon button"
+msgstr ""
+
+#: functions/theme-options.php:572
+msgid "Icon Color"
+msgstr ""
+
+#: functions/theme-options.php:573
+msgid "Set a unique color for your icon (optional)"
+msgstr ""
+
+#: functions/theme-options.php:578
+msgid "Open in new window"
+msgstr ""
+
+#: functions/theme-options.php:587
+msgid "Dynamic Styles"
+msgstr ""
+
+#: functions/theme-options.php:588
+msgid "Turn on to use the styling options below"
+msgstr ""
+
+#: functions/theme-options.php:596
+msgid "Font"
+msgstr ""
+
+#: functions/theme-options.php:597
+msgid "Select font for the theme"
+msgstr ""
+
+#: functions/theme-options.php:601
+msgid "Titillium Web, Latin (Self-hosted)"
+msgstr ""
+
+#: functions/theme-options.php:602
+msgid "Titillium Web, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:603
+msgid "Droid Serif, Latin"
+msgstr ""
+
+#: functions/theme-options.php:604
+msgid "Source Sans Pro, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:605
+msgid "Lato, Latin"
+msgstr ""
+
+#: functions/theme-options.php:606
+msgid "Raleway, Latin"
+msgstr ""
+
+#: functions/theme-options.php:607
+msgid "Ubuntu, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:608
+msgid "Ubuntu, Latin / Cyrillic-Ext"
+msgstr ""
+
+#: functions/theme-options.php:609
+msgid "Roboto, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:610
+msgid "Roboto, Latin / Cyrillic-Ext"
+msgstr ""
+
+#: functions/theme-options.php:611
+msgid "Roboto Condensed, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:612
+msgid "Roboto Condensed, Latin / Cyrillic-Ext"
+msgstr ""
+
+#: functions/theme-options.php:613
+msgid "Roboto Slab, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:614
+msgid "Roboto Slab, Latin / Cyrillic-Ext"
+msgstr ""
+
+#: functions/theme-options.php:615
+msgid "Playfair Display, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:616
+msgid "Playfair Display, Latin / Cyrillic"
+msgstr ""
+
+#: functions/theme-options.php:617
+msgid "Open Sans, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:618
+msgid "Open Sans, Latin / Cyrillic-Ext"
+msgstr ""
+
+#: functions/theme-options.php:619
+msgid "PT Serif, Latin-Ext"
+msgstr ""
+
+#: functions/theme-options.php:620
+msgid "PT Serif, Latin / Cyrillic-Ext"
+msgstr ""
+
+#: functions/theme-options.php:621
+msgid "Arial"
+msgstr ""
+
+#: functions/theme-options.php:622
+msgid "Georgia"
+msgstr ""
+
+#: functions/theme-options.php:623
+msgid "Verdana"
+msgstr ""
+
+#: functions/theme-options.php:624
+msgid "Tahoma"
+msgstr ""
+
+#: functions/theme-options.php:631
+msgid "Header Logo Image Max-height"
+msgstr ""
+
+#: functions/theme-options.php:632
+msgid ""
+"Your logo image should have the double height of this to be high resolution"
+msgstr ""
+
+#: functions/theme-options.php:645
+msgid "Website Max-width"
+msgstr ""
+
+#: functions/theme-options.php:646
+msgid "Max-width of the container. Set to default for full width."
+msgstr ""
+
+#: functions/theme-options.php:659
+msgid "Post Format Max-width"
+msgstr ""
+
+#: functions/theme-options.php:660
+msgid "Max-width of the post formats, shown at the top of articles"
+msgstr ""
+
+#: functions/theme-options.php:673
+msgid "Content Max-width"
+msgstr ""
+
+#: functions/theme-options.php:674
+msgid "Max-width of the website content"
+msgstr ""
+
+#: functions/theme-options.php:687
+msgid "Logo Background"
+msgstr ""
+
+#: functions/theme-options.php:695
+msgid "Header Background"
+msgstr ""
+
+#: functions/theme-options.php:703
+msgid "Social Sidebar Background"
+msgstr ""
+
+#: functions/theme-options.php:711
+msgid "Footer Background"
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:276
+#: functions/updater/theme-updater-admin.php:330
+#: functions/updater/theme-updater-admin.php:383
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:296
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:304
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:309
+msgid "Invalid license."
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:315
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:320
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: functions/updater/theme-updater-admin.php:325
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: functions/updater/theme-updater.php:30
+msgid "Theme License"
+msgstr ""
+
+#: functions/updater/theme-updater.php:31
+msgid "Enter your theme license key."
+msgstr ""
+
+#: functions/updater/theme-updater.php:32
+msgid "License Key"
+msgstr ""
+
+#: functions/updater/theme-updater.php:33
+msgid "License Action"
+msgstr ""
+
+#: functions/updater/theme-updater.php:34
+msgid "Deactivate License"
+msgstr ""
+
+#: functions/updater/theme-updater.php:35
+msgid "Activate License"
+msgstr ""
+
+#: functions/updater/theme-updater.php:36
+#: functions/updater/theme-updater.php:49
+msgid "License status is unknown."
+msgstr ""
+
+#: functions/updater/theme-updater.php:37
+msgid "Renew?"
+msgstr ""
+
+#: functions/updater/theme-updater.php:38
+msgid "unlimited"
+msgstr ""
+
+#: functions/updater/theme-updater.php:39
+msgid "License key is active."
+msgstr ""
+
+#: functions/updater/theme-updater.php:40
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: functions/updater/theme-updater.php:41
+msgid "Lifetime License."
+msgstr ""
+
+#: functions/updater/theme-updater.php:42
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: functions/updater/theme-updater.php:43
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: functions/updater/theme-updater.php:44
+msgid "License key has expired."
+msgstr ""
+
+#: functions/updater/theme-updater.php:45
+msgid "License keys do not match."
+msgstr ""
+
+#: functions/updater/theme-updater.php:46
+msgid "License is inactive."
+msgstr ""
+
+#: functions/updater/theme-updater.php:47
+msgid "License key is disabled."
+msgstr ""
+
+#: functions/updater/theme-updater.php:48
+msgid "Site is inactive."
+msgstr ""
+
+#: functions/updater/theme-updater.php:50
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: functions/updater/theme-updater.php:51
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: header.php:19
+msgid "Skip to content"
+msgstr ""
+
+#: inc/page-title.php:19
+msgid "Search result"
+msgstr ""
+
+#: inc/page-title.php:21
+msgid "Search results"
+msgstr ""
+
+#: inc/page-title.php:26
+msgid "For the term"
+msgstr ""
+
+#: inc/page-title.php:28
+msgid "Please try another search:"
+msgstr ""
+
+#: inc/page-title.php:36
+msgid "Error 404."
+msgstr ""
+
+#: inc/page-title.php:36
+msgid "Page not found!"
+msgstr ""
+
+#: inc/page-title.php:38
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#: inc/post-nav.php:3
+msgid "Next"
+msgstr ""
+
+#: inc/post-nav.php:4
+msgid "Previous"
+msgstr ""
+
+#: inc/related-posts.php:6
+msgid "You may also like..."
+msgstr ""
+
+#: searchform.php:3
+msgid "To search type and hit enter"
+msgstr ""
+
+#: single.php:22
+msgid "Pages:"
+msgstr ""
+
+#: single.php:28
+msgid "Tags:"
+msgstr ""
