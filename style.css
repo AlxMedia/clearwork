@@ -1,7 +1,7 @@
 /*
 Theme Name: Clearwork
 Theme URI: http://alx.media/themes/clearwork/
-Version: 1.0.2
+Version: 1.0.3
 Requires at least: 5.0
 Requires PHP: 5.6
 Tested up to: 5.6
@@ -703,7 +703,9 @@ box-shadow: 0 0 2px rgba(255,255,255,0.4);
 .toggle-search .svg-icon { fill: #333; margin: 0 auto; }
 .toggle-search #svg-close { display: none; }
 .toggle-search.active #svg-search { display: none; }
-.toggle-search.active #svg-close { display: block; }
+.toggle-search.active #svg-close { display: block; fill: rgba(0,0,0,0.4); }
+.toggle-search:focus #svg-search { fill: rgba(0,0,0,0.4); }
+.toggle-search:focus #svg-close { fill: #333; }
 
 
 /* ------------------------------------------------------------------------- *
@@ -800,6 +802,8 @@ box-shadow: 0 0 2px rgba(255,255,255,0.4);
 .nav-menu.mobile.toggled > div > ul.menu ul.sub-menu { visibility: hidden; transition: all 0.3s ease; }
 .nav-menu.mobile.toggled > div > ul.menu,
 .nav-menu.mobile.toggled > div > ul.menu ul.sub-menu.active { visibility: visible; }
+.nav-menu.mobile button:focus,
+.menu-toggle:focus { background: rgba(0,0,0,0.04); }
 
 /* menu styling */
 .nav-menu a { color: #fff; }

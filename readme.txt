@@ -67,7 +67,34 @@ Screenshot images
 License: CC0 1.0 Universal (CC0 1.0)
 Source: https://stocksnap.io
 
+Sidebar image
+1. https://stocksnap.io/photo/OGBFDCHPEZ - CC0 1.0 Universal (CC0 1.0)
+
+Content images
+1. https://stocksnap.io/photo/ZCIZ1AWXTC - CC0 1.0 Universal (CC0 1.0)
+2. https://stocksnap.io/photo/UB2UXMASSW - CC0 1.0 Universal (CC0 1.0)
+3. https://stocksnap.io/photo/TQ30QBDKB4 - CC0 1.0 Universal (CC0 1.0)
+4. https://stocksnap.io/photo/2UDYPUZY3L - CC0 1.0 Universal (CC0 1.0)
+5. https://stocksnap.io/photo/C31CLWIU4T - CC0 1.0 Universal (CC0 1.0)
+6. https://stocksnap.io/photo/N7FUTW0RY5 - CC0 1.0 Universal (CC0 1.0)
+7. https://stocksnap.io/photo/YO7RLUH3TY - CC0 1.0 Universal (CC0 1.0)
+8. https://stocksnap.io/photo/JRHSFSKQZQ - CC0 1.0 Universal (CC0 1.0)
+9. https://stocksnap.io/photo/49FQQBTLIN - CC0 1.0 Universal (CC0 1.0)
+10. https://stocksnap.io/photo/B65VCAYIUF - CC0 1.0 Universal (CC0 1.0)
+11. https://stocksnap.io/photo/KSC88QWZBR - CC0 1.0 Universal (CC0 1.0)
+12. https://stocksnap.io/photo/0NML1Q2CFH - CC0 1.0 Universal (CC0 1.0)
+13. https://stocksnap.io/photo/5FG8M40K0N - CC0 1.0 Universal (CC0 1.0)
+
+
 == Changelog ==
+
+= 1.0.3 - 2021-04-20 =
+* Fixed: more visible focus style of search button
+* Fixed: visible focus states on mobile menu
+* Fixed: echo, escape and get_ pingback_url
+* Fixed: footer wordpress link translatable
+* Added screenshot images to readme
+* Updated language files
 
 = 1.0.2 - 2021-03-08 =
 * Removed premium theme updater code
