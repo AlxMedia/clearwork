@@ -63,6 +63,11 @@ Copyright (c) David Vongries
 License: MIT
 Source: https://kirki.org/
 
+Magic Grid
+Copyright (c) Emmanuel Olaojo
+License: MIT
+Source: https://github.com/e-oj/Magic-Grid
+
 Screenshot images
 License: CC0 1.0 Universal (CC0 1.0)
 Source: https://stocksnap.io
@@ -93,6 +98,7 @@ Content images
 * Fixed: visible focus states on mobile menu
 * Fixed: echo, escape and get_ pingback_url
 * Fixed: footer wordpress link translatable
+* Added magic grid copyright to readme
 * Added screenshot images to readme
 * Updated language files
 
