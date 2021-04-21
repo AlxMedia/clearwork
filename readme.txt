@@ -93,6 +93,9 @@ Content images
 
 == Changelog ==
 
+= 1.0.4 - 2021-04-21 =
+* Fixed: removed unused image css 
+
 = 1.0.3 - 2021-04-20 =
 * Fixed: more visible focus style of search button
 * Fixed: visible focus states on mobile menu

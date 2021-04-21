@@ -1,7 +1,7 @@
 /*
 Theme Name: Clearwork
 Theme URI: http://alx.media/themes/clearwork/
-Version: 1.0.3
+Version: 1.0.4
 Requires at least: 5.0
 Requires PHP: 5.6
 Tested up to: 5.6
@@ -858,7 +858,6 @@ box-shadow: 0 0 2px rgba(255,255,255,0.4);
 .type-portfolio-inner:hover .type-portfolio-content { bottom: 0; }
 .type-portfolio img { display: block; width: 100%; height: auto; }
 .type-portfolio-thumb { position: relative; }
-.type-portfolio-thumb:before { opacity: 0; background: url(img/image-gradient-reverse.png) repeat-x; background-size: 100% 100%; content: ""; position: absolute; display: block; height: 100%; width: 100%; bottom: 0; display: block; transition: all .4s ease; pointer-events: none; }
 .type-portfolio:hover .type-portfolio-thumb:before { opacity: 0.5; }
 .type-portfolio:hover .type-portfolio-date { top: 0; }
 .type-portfolio:hover .thumb-icon { background: #fff; color: #333; }
