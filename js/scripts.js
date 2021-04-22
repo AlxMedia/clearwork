@@ -104,15 +104,18 @@ jQuery(document).ready(function($) {
 	
 /*  Magic grid
 /* ------------------------------------ */	
-	let magicGrid = new MagicGrid({
-        container: '.magic-grid',
-        animate: true,
-        gutter: 20,
-        static: true,
-        useMin: true
-      });
+	let magicGridWrapper = document.querySelector( '.magic-grid' );
+	if ( magicGridWrapper && magicGridWrapper.children && magicGridWrapper.children.length ) {
+		let magicGrid = new MagicGrid({
+			container: '.magic-grid',
+			animate: true,
+			gutter: 20,
+			static: true,
+			useMin: true
+		});
 
-      magicGrid.listen();	
+		magicGrid.listen();
+	}	
 
 /*  Trap focus
 /* ------------------------------------ */	

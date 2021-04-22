@@ -93,7 +93,8 @@ Content images
 
 == Changelog ==
 
-= 1.0.4 - 2021-04-21 =
+= 1.0.4 - 2021-04-22 =
+* Fixed: magic grid javascript issue
 * Fixed: removed unused image css 
 
 = 1.0.3 - 2021-04-20 =
