@@ -95,6 +95,7 @@ Content images
 
 = 1.0.5 - 2021-05-25 =
 * Fixed compatibility issue with custom nav and various security plugins
+* Updated language files
 
 = 1.0.4 - 2021-04-22 =
 * Fixed: magic grid javascript issue
