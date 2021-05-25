@@ -93,6 +93,9 @@ Content images
 
 == Changelog ==
 
+= 1.0.5 - 2021-05-25 =
+* Fixed compatibility issue with custom nav and various security plugins
+
 = 1.0.4 - 2021-04-22 =
 * Fixed: magic grid javascript issue
 * Fixed: removed unused image css 

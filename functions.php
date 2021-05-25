@@ -92,8 +92,10 @@ add_action( 'after_setup_theme', 'clearwork_setup' );
 
 /*  Custom navigation
 /* ------------------------------------ */
-add_action( 'wp', function() {
+if ( ! class_exists( '\Clearwork\Nav' ) ) {
 	require_once 'functions/nav.php';
+}
+add_action( 'wp', function() {
 	$nav = new \Clearwork\Nav();
 	$nav->enqueue(
 		[
