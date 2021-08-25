@@ -4,7 +4,7 @@ Requires at least: 5.0
 Tested up to: 5.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0
-Tags: blog, photography, portfolio, one-column, two-columns, right-sidebar, left-sidebar, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, custom-logo, custom-header, custom-background, footer-widgets
+Tags: blog, photography, portfolio, one-column, two-columns, right-sidebar, left-sidebar, custom-colors, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, custom-logo, custom-header, custom-background, footer-widgets, wide-blocks
 
 == Description ==
 
@@ -92,6 +92,9 @@ Content images
 
 
 == Changelog ==
+
+= 1.1.0 - 2021-08-25 =
+* Added missing theme tags for wordpress.org
 
 = 1.0.9 - 2021-08-25 =
 * Added missing theme tags for wordpress.org
