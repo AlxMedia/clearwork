@@ -8,7 +8,7 @@ Tags: blog, photography, portfolio, one-column, two-columns, right-sidebar, left
 
 == Description ==
 
-Clearwork is a flexible portfolio theme with plenty of options. It is optimized for all devices and built to work with blocks. You can pick different colors for sections, set sidebar to the left or right, or no sidebar at all, and choose website max-width with a few clicks. Demo: http://demo.alx.media/x/?theme=Clearwork
+Clearwork is a flexible portfolio theme with plenty of options. It is optimized for all devices and built to work with blocks. You can pick different colors for sections, set sidebar to the left or right, or no sidebar at all, and choose website max-width with a few clicks. Demo: https://demo.agnarson.com/?theme=Clearwork
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Clearwork is a flexible portfolio theme with plenty of options. It is optimized 
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
